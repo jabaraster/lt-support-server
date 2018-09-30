@@ -1,0 +1,5 @@
+.stack-work/
+lt-support-server.cabal
+*~node_modules/
+.serverless/
+node_modules/
